@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "c2b67015-af2a-46df-9a94-be7f85f8428b",
+    "name": "portarits",
+    "title": "wedding individual",
+    "description": "manapen manapen",
+    "collageFormat": "grid-asymmetric",
+    "fontStyle": "elegant",
+    "colorTheme": "warm",
+    "images": [
+      {
+        "id": "17636443124100.46091780971495644",
+        "name": "img2-min.jpg",
+        "url": "/api/uploads/images/7378e7d7-0619-461e-877f-a75292a12664.jpeg"
+      },
+      {
+        "id": "17636443124210.18179501222246952",
+        "name": "img3-min.jpg",
+        "url": "/api/uploads/images/79b8cdb8-c63f-4f7a-b671-182553c73d3d.jpeg"
+      },
+      {
+        "id": "17636443124260.031750897960790336",
+        "name": "img4-min.jpg",
+        "url": "/api/uploads/images/c4b70bf1-4a18-4369-994d-3874d9d9db20.jpeg"
+      },
+      {
+        "id": "17636443124300.6261026081271275",
+        "name": "img1-min.jpg",
+        "url": "/api/uploads/images/9f8f1150-9301-406e-8965-f4b7704cccd6.jpeg"
+      }
+    ],
+    "createdAt": "2025-11-20T18:42:00.364119",
+    "updatedAt": "2025-11-20T18:44:38.233520"
+  }
+]
