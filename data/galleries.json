@@ -31,5 +31,33 @@
     ],
     "createdAt": "2025-11-20T18:42:00.364119",
     "updatedAt": "2025-11-20T18:44:38.233520"
+  },
+  {
+    "_id": "482cad8c-58ab-4c2c-8981-2acfc9a026eb",
+    "name": "da",
+    "title": "df",
+    "description": "fd",
+    "collageFormat": "grid",
+    "fontStyle": "sans",
+    "colorTheme": "elegant",
+    "images": [
+      {
+        "id": "17643885382140.27992871156000954",
+        "url": "/uploads/images/0646efcf-a400-4685-83fc-4aa35e33ed7f.jpeg",
+        "name": "img2-min.jpg"
+      },
+      {
+        "id": "17643885382170.14612502150103146",
+        "url": "/uploads/images/e879adda-66a9-4032-aba0-14208a7ac52d.jpeg",
+        "name": "img3-min.jpg"
+      },
+      {
+        "id": "17643885382410.5717788863134099",
+        "url": "/uploads/images/e44f4c24-85ab-4988-8678-b5f1d356f739.jpeg",
+        "name": "img1-min.jpg"
+      }
+    ],
+    "createdAt": "2025-11-29T09:25:41.354531",
+    "updatedAt": "2025-11-29T09:25:41.354531"
   }
 ]

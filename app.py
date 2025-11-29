@@ -15,7 +15,10 @@ from config.email_config import init_mail
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": [
+    "https://blackbox-studio-23.netlify.app",
+     "https://blackbox-studio23-server.onrender.com"
+]}})
 
 init_mail(app)
 
@@ -46,5 +49,5 @@ app.register_blueprint(gallery_routes, url_prefix="/api")
 
 if __name__ == "__main__":
     from waitress import serve
-    serve(app, host="0.0.0.0", port=8000)
+    serve(app, host="0.0.0.0", port=10000)
 

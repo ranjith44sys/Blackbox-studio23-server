@@ -5,4 +5,4 @@ pillow
 python-dotenv
 waitress
 flask-mail
-python -m pip install "pymongo[srv]==3.12"
+requests
